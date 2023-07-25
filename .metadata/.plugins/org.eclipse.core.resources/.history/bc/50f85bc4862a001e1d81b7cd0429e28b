@@ -1,0 +1,7 @@
+package com.chlee.loose.sec01;
+
+public interface Remote {
+	public void actionOne();
+	public void actionTwo();
+
+}

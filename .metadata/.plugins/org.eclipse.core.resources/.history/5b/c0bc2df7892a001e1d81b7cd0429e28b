@@ -1,0 +1,13 @@
+package com.chlee.loose.sec01;
+
+public class PhoneMainExample {
+
+	public static void main(String[] args) {
+		Remote iphone14pro = new Iphone14pro();
+		Remote galaxyFlip5 = new GalaxyFlip5();
+		
+		PhoneActionProcess iphoneActionProcess = new PhoneActionProcess(iphone14pro);
+		PhoneActionProcess galaxyActionProcess = new PhoneActionProcess(galaxyFlip5);
+	}
+
+}

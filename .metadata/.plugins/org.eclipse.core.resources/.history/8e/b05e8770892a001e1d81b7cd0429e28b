@@ -1,0 +1,10 @@
+package com.chlee.loose.sec01;
+
+public class PhoneMainExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

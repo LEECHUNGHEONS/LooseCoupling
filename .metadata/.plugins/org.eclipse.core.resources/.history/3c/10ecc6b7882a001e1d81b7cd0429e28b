@@ -1,0 +1,14 @@
+package com.chlee.loose.sec01;
+
+public class PhoneActionProcess {
+	private Remote remote;
+	
+	public PhoneActionProcess(Remote remote) {
+		this.remote = remote;
+	}
+	
+	public void perfomencePhone() {
+	   result1 = remote.actionOne("폰이 폭발 했습니다");
+	}
+
+}

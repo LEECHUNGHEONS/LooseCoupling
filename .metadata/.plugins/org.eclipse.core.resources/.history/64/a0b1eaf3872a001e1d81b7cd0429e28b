@@ -1,0 +1,10 @@
+package com.chlee.loose.sec01;
+
+public class PhoneActionProcess {
+	private Remote remote;
+	
+	public PhoneActionProcess(Remote remote) {
+		this.remote = remote;
+	}
+
+}

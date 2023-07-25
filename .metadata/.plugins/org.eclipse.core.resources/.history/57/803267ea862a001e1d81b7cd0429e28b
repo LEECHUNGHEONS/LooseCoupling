@@ -1,0 +1,17 @@
+package com.chlee.loose.sec01;
+
+public class Iphone14pro implements Remote {
+
+	@Override
+	public void actionOne() {
+		
+		
+	}
+
+	@Override
+	public void actionTwo() {
+		
+		
+	}
+
+}

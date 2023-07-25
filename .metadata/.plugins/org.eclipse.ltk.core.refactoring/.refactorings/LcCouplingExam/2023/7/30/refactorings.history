@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.chlee.loose.sec01&apos; to &apos;LcCouplingExam01/src&apos;&#x0D;&#x0A;- Original project: &apos;LcCouplingExam&apos;&#x0D;&#x0A;- Destination element: &apos;LcCouplingExam01/src&apos;&#x0D;&#x0A;- Original element: &apos;LcCouplingExam/src/com.chlee.loose.sec01&apos;" description="Copy package" destination="=LcCouplingExam01/src" element1="/src&lt;com.chlee.loose.sec01" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1690246686782" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package com.chlee.loose.sec01;
+
+public class Iphone14pro implements Remote {
+
+	@Override
+	public void actionOne(String mesage) {
+		System.out.println("아이폰 작동 1 결과 : " + m);
+		
+	}
+
+	@Override
+	public void actionTwo(String mesage) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
