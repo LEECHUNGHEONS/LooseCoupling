@@ -29,7 +29,7 @@ public class PDFExport implements ExportMetadata {
 
 	@Override
 	public File export(List<Object> metadata) {
-		System.out.println("PDF Exporting data 레지 수정1234556 !");
+		System.out.println("PDF Exporting data 레지 수정1234556 하이하이 !");
         // Export Metadata
         File outputCSV = null;
         return outputCSV;
