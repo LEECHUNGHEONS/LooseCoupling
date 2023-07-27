@@ -7,8 +7,8 @@ import com.chlee3.fetch.FetchMetadata;
 
 public class CSVMetadataCollector2 implements MetadataCollector {
 	
-	private FetchMetadata fetchMetadata;
-    private ExportMetadata exportMetadata;
+	private FetchMetadata fetchMetadata33;
+    private ExportMetadata exportMetadata44;
     
     public CSVMetadataCollector() {
     	
