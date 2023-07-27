@@ -28,7 +28,7 @@ public class JSONFetch implements FetchMetadata {
 	@Override
 	public List<Object> fetchMetadata() {
 		List<Object> metadata = new ArrayList<>();
-		System.out.println("JSON Fetching some json data");
+		System.out.println("J야호얄루얄루 수정수정~!");
         return metadata;
 	}
 }
