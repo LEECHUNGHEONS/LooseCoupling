@@ -5,10 +5,10 @@ import java.util.List;
 import com.chlee2.export.ExportMetadata;
 import com.chlee3.fetch.FetchMetadata;
 
-public class CSVMetadataCollector2 implements MetadataCollector {
+public class CSVMetadataCollector implements MetadataCollector {
 	
-	private FetchMetadata fetchMetadata33;
-    private ExportMetadata exportMetadata44;
+	private FetchMetadata fetchMetadata;
+    private ExportMetadata exportMetadata;
     
     public CSVMetadataCollector() {
     	
